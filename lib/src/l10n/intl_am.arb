@@ -1,0 +1,17 @@
+{
+  "@@locale": "am",
+  "appTitle": "ኢመፅሓፍ",
+  "homePage": "መነሻ",
+  "loginPage": "Login",
+  "signupPage": "Signup",
+  "settingsPage": "ቅንብሮች",
+  "systemMode": "የስርጭት ሞድ",
+  "lightMode": "ብርሃን",
+  "darkMode": "ጨለማ",
+  "language": "ቋንቋ",
+  "theme": "ገጽታ",
+  "english": "English",
+  "amharic": "Amharic",
+  "arabic": "Arabic",
+  "tigrigna": "Tigrigna"
+}

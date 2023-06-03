@@ -1,0 +1,17 @@
+{
+  "@@locale": "ti",
+  "appTitle": "ኢመፅሓፍ",
+  "homePage": "መፈለምታ",
+  "loginPage": "Login",
+  "signupPage": "Signup",
+  "settingsPage": "ስንድኦታት",
+  "systemMode": "ስርዓት",
+  "lightMode": "ብርሃን",
+  "darkMode": "ፀልማት",
+  "language": "ቋንቋ",
+  "theme": "ቀንዲ",
+  "english": "English",
+  "amharic": "Amharic",
+  "arabic": "Arabic",
+  "tigrigna": "Tigrigna"
+}

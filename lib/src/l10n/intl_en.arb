@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "appTitle": "EMetshaf",
+  "homePage": "Home",
+  "loginPage": "Login",
+  "signupPage": "Signup",
+  "settingsPage": "Settings",
+  "systemMode": "System Mode",
+  "lightMode": "Light Mode",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "theme": "Theme",
+  "english": "English",
+  "amharic": "Amharic",
+  "arabic": "Arabic",
+  "tigrigna": "Tigrigna"
+}

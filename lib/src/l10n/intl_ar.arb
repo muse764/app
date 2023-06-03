@@ -1,0 +1,17 @@
+{
+  "@@locale": "ar",
+  "appTitle": "اِمَسهاف",
+  "homePage": "بيت",
+  "loginPage": "Login",
+  "signupPage": "Signup",
+  "settingsPage": "إعدادات",
+  "systemMode": "نظام",
+  "lightMode": "ضوء",
+  "darkMode": "داكن",
+  "language": "لغة",
+  "theme": "موضوع",
+  "english": "English",
+  "amharic": "Amharic",
+  "arabic": "Arabic",
+  "tigrigna": "Tigrigna"
+}
